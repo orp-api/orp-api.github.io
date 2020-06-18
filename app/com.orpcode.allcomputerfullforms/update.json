@@ -3,7 +3,7 @@
  "updateCancelable":"true",
  "updateVersionCode":"201",
  "updateTitle":"New Update",
- "updateText":"Version (2.0.1) is available for update\n\nWHATS NEW:\n\n6+ New full form names added.",
+ "updateText":"Version (2.0.1) is available for update\n\nWHATS NEW:\n\n* New full form names added\n* New Look",
  "updateButton":"Update Now",
  "updateLink":"https://play.google.com/store/apps/details?id=com.orpcode.allcomputerfullforms"
 } 
