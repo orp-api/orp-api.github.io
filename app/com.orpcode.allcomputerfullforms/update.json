@@ -1,6 +1,6 @@
 { 
  "showDialog":1,
- "updateCancelable":"false",
+ "updateCancelable":"true",
  "updateVersionCode":"201",
  "updateTitle":"New Update",
  "updateText":"A new version (2.0.1) of the application is available\n\nWhats New:\n\n6+ New full form names added.",
