@@ -3,7 +3,7 @@
  "updateCancelable":"false",
  "updateVersionCode":"202",
  "updateTitle":"New Update",
- "updateText":"New version (2.0.2) is available for update\n\nWHATS NEW ?\n\n* No longer supported : API 18 / 4.3 / Jelly Bean\n\n* Online list update feature more optimized\n\n* New optimized search\n* New look\n* Minor bugs fixed",
+ "updateText":"New version (2.0.2) is available for update\nWHATS NEW ?\n* No longer supported : API 18 / 4.3 / Jelly Bean\n\n* Online list update feature more optimized\n\n* New optimized search\n* New look\n* Minor bugs fixed",
  "updateButton":"Update",
  "updateLink":"https://play.google.com/store/apps/details?id=com.orpcode.allcomputerfullforms"
 } 
