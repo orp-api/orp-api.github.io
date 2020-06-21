@@ -1,9 +1,9 @@
 { 
- "showDialog":0,
+ "showDialog":1,
  "updateCancelable":"true",
- "updateVersionCode":"201",
- "updateTitle":"App Update",
- "updateText":"Version (2.0.1) is available for update\n\nWHATS NEW:\n\n* New full form names added\n* New Look",
+ "updateVersionCode":"202",
+ "updateTitle":"New Update",
+ "updateText":"New version (2.0.2) is available for update\n\nWHATS NEW ?\n\n* No longer supported : API 18 / 4.3 / Jelly Bean\n* Online list update feature more optimized\n* New optimized search\n* New look\n* Minor bugs fixed",
  "updateButton":"Update",
  "updateLink":"https://play.google.com/store/apps/details?id=com.orpcode.allcomputerfullforms"
 } 
