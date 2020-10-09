@@ -3,7 +3,7 @@
  "updateCancelable":"true",
  "updateVersionCode":"204",
  "updateTitle":"New Update",
- "updateText":"New version(2.0.4) is available\n\nWHATS NEW ?\n\n* App not opening bug fixed.\n* Online list update feature more optimized.\n* New optimized search.",
+ "updateText":"New version(2.0.4) is available\n\nWHATS NEW ?\n\n* App not opening bug fixed.\n\n* Online list update feature more optimized.\n\n* New optimized search.",
  "updateButton":"Update Now",
  "updateLink":"https://play.google.com/store/apps/details?id=com.orpcode.allcomputerfullforms"
 } 
